@@ -1,0 +1,9 @@
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Models\bin\Debug\netstandard2.0\API-GEO.Models.deps.json
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Models\bin\Debug\netstandard2.0\API-GEO.Models.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Models\bin\Debug\netstandard2.0\API-GEO.Models.pdb
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Models\obj\Debug\netstandard2.0\API-GEO.Models.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Models\obj\Debug\netstandard2.0\API-GEO.Models.AssemblyInfo.cs
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Models\obj\Debug\netstandard2.0\API-GEO.Models.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Models\obj\Debug\netstandard2.0\API-GEO.Models.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Models\obj\Debug\netstandard2.0\API-GEO.Models.pdb
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Models\obj\Debug\netstandard2.0\API-GEO.Models.csprojAssemblyReference.cache

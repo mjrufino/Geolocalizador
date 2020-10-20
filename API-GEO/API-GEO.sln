@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-GEO", "API-GEO\API-GEO.csproj", "{4524BAF4-54AA-415F-9F14-5B6A8841CABF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-GEO.Data", "API-GEO.Data\API-GEO.Data.csproj", "{05FA2B61-C59D-4F4A-8BE0-AAEC2C0BBEBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-GEO.Manager", "API-GEO.Manager\API-GEO.Manager.csproj", "{9BF447C9-14E8-4FC7-82CB-1C2818FA6FEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-GEO.Models", "API-GEO.Models\API-GEO.Models.csproj", "{B728FD64-0C0D-4FC3-9C82-0F3D6F95BA6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-GEO.MQ", "API-GEO.MQ\API-GEO.MQ.csproj", "{645C7821-54EA-414F-9C86-6BEE5937DDA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4524BAF4-54AA-415F-9F14-5B6A8841CABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4524BAF4-54AA-415F-9F14-5B6A8841CABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4524BAF4-54AA-415F-9F14-5B6A8841CABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4524BAF4-54AA-415F-9F14-5B6A8841CABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FA2B61-C59D-4F4A-8BE0-AAEC2C0BBEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FA2B61-C59D-4F4A-8BE0-AAEC2C0BBEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FA2B61-C59D-4F4A-8BE0-AAEC2C0BBEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FA2B61-C59D-4F4A-8BE0-AAEC2C0BBEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF447C9-14E8-4FC7-82CB-1C2818FA6FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF447C9-14E8-4FC7-82CB-1C2818FA6FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF447C9-14E8-4FC7-82CB-1C2818FA6FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF447C9-14E8-4FC7-82CB-1C2818FA6FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B728FD64-0C0D-4FC3-9C82-0F3D6F95BA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B728FD64-0C0D-4FC3-9C82-0F3D6F95BA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B728FD64-0C0D-4FC3-9C82-0F3D6F95BA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B728FD64-0C0D-4FC3-9C82-0F3D6F95BA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645C7821-54EA-414F-9C86-6BEE5937DDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645C7821-54EA-414F-9C86-6BEE5937DDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645C7821-54EA-414F-9C86-6BEE5937DDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645C7821-54EA-414F-9C86-6BEE5937DDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FB2D9AC-E19C-4A2C-844B-57F80676F33F}
+	EndGlobalSection
+EndGlobal

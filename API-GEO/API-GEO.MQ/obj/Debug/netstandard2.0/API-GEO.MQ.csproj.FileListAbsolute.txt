@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\bin\Debug\netstandard2.0\API-GEO.MQ.deps.json
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\bin\Debug\netstandard2.0\API-GEO.MQ.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\bin\Debug\netstandard2.0\API-GEO.MQ.pdb
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\obj\Debug\netstandard2.0\API-GEO.MQ.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\obj\Debug\netstandard2.0\API-GEO.MQ.AssemblyInfo.cs
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\obj\Debug\netstandard2.0\API-GEO.MQ.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\obj\Debug\netstandard2.0\API-GEO.MQ.csproj.CopyComplete
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\obj\Debug\netstandard2.0\API-GEO.MQ.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\obj\Debug\netstandard2.0\API-GEO.MQ.pdb
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\obj\Debug\netstandard2.0\API-GEO.MQ.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\bin\Debug\netstandard2.0\API-GEO.Models.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\bin\Debug\netstandard2.0\API-GEO.Models.pdb
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\bin\Debug\netstandard2.0\API-GEO.Data.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.MQ\bin\Debug\netstandard2.0\API-GEO.Data.pdb

@@ -1,0 +1,16 @@
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\bin\Debug\netstandard2.0\API-GEO.Manager.deps.json
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\bin\Debug\netstandard2.0\API-GEO.Manager.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\bin\Debug\netstandard2.0\API-GEO.Manager.pdb
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\bin\Debug\netstandard2.0\API-GEO.Data.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\bin\Debug\netstandard2.0\API-GEO.Models.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\bin\Debug\netstandard2.0\API-GEO.MQ.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\bin\Debug\netstandard2.0\API-GEO.Data.pdb
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\bin\Debug\netstandard2.0\API-GEO.Models.pdb
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\bin\Debug\netstandard2.0\API-GEO.MQ.pdb
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\obj\Debug\netstandard2.0\API-GEO.Manager.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\obj\Debug\netstandard2.0\API-GEO.Manager.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\obj\Debug\netstandard2.0\API-GEO.Manager.AssemblyInfo.cs
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\obj\Debug\netstandard2.0\API-GEO.Manager.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\obj\Debug\netstandard2.0\API-GEO.Manager.csproj.CopyComplete
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\obj\Debug\netstandard2.0\API-GEO.Manager.dll
+C:\Users\Martin\source\repos\API-GEO\API-GEO.Manager\obj\Debug\netstandard2.0\API-GEO.Manager.pdb

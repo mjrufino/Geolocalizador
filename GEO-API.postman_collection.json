@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "84c9d5ed-0cec-4c49-89ce-b54451d14b5c",
+		"name": "aCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GeoLocalizar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{    \r\n    \"calle\": \"parana\",   \r\n    \"numero\": \"2662\",\r\n    \"ciudad\": \"villa ballester\",\r\n    \"codigo_postal\": \"1653\",\r\n    \"provincia\": \"buenos aires\",\r\n    \"pais\": \"argentina\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8000/api-geo/GeoLocalizar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api-geo",
+						"GeoLocalizar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GeoCodificar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/api-geo/GeoCodificar?id=1",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api-geo",
+						"GeoCodificar"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

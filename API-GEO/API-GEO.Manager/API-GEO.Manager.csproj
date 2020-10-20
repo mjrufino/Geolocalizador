@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>API_GEO.Manager</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API-GEO.Data\API-GEO.Data.csproj" />
+    <ProjectReference Include="..\API-GEO.Models\API-GEO.Models.csproj" />
+    <ProjectReference Include="..\API-GEO.MQ\API-GEO.MQ.csproj" />
+  </ItemGroup>
+
+</Project>
